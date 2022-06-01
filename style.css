@@ -1,0 +1,22 @@
+.heading{
+    margin-top: 0;
+    width: 100%;
+}
+#Instructions{
+    float: right;
+}
+body{
+    text-align: center;
+}
+li{
+ font-size: 18px;
+}
+.footer{
+    position: sticky;
+    padding-bottom: 0;
+}
+#myCanvas{
+    border: 5px;
+    border-style: ridge;
+    border-color: black;
+}
